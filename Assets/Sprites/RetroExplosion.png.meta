@@ -1,0 +1,857 @@
+fileFormatVersion: 2
+guid: 907a19a0cc99bf04288d3b0c0d6afcfb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5986030973748356752
+    second: Explosion_0
+  - first:
+      213: -5600206312213581617
+    second: Explosion_1
+  - first:
+      213: 3815954189206336483
+    second: Explosion_2
+  - first:
+      213: -3690502768834906923
+    second: Explosion_3
+  - first:
+      213: -49130668184793455
+    second: Explosion_4
+  - first:
+      213: -2330519403281856691
+    second: Explosion_5
+  - first:
+      213: -4796932125324312052
+    second: Explosion_6
+  - first:
+      213: 4348620978117878488
+    second: Explosion_7
+  - first:
+      213: 7788287979965792003
+    second: Explosion_8
+  - first:
+      213: -5876230404456235001
+    second: Explosion_9
+  - first:
+      213: -7061159883300251746
+    second: Explosion_10
+  - first:
+      213: -6502960696361451778
+    second: RetroExplosion_0
+  - first:
+      213: 7345398587264749932
+    second: RetroExplosion_1
+  - first:
+      213: -5628089963459731439
+    second: RetroExplosion_2
+  - first:
+      213: -5615236558654677150
+    second: RetroExplosion_3
+  - first:
+      213: -9076511769979202292
+    second: RetroExplosion_4
+  - first:
+      213: 393248331913494995
+    second: RetroExplosion_5
+  - first:
+      213: -5935441379739627330
+    second: RetroExplosion_6
+  - first:
+      213: -7759886953643789750
+    second: RetroExplosion_7
+  - first:
+      213: -6053118883593941983
+    second: RetroExplosion_8
+  - first:
+      213: 5818553698694194776
+    second: RetroExplosion_9
+  - first:
+      213: 1866629528009497757
+    second: RetroExplosion_10
+  - first:
+      213: 4969812904899888592
+    second: RetroExplosion_11
+  - first:
+      213: -4102482476242799575
+    second: RetroExplosion_12
+  - first:
+      213: 7577836642622379980
+    second: RetroExplosion_13
+  - first:
+      213: 3594173300225784561
+    second: RetroExplosion_14
+  - first:
+      213: 6413744643637040476
+    second: RetroExplosion_15
+  - first:
+      213: -7051682881584743223
+    second: RetroExplosion_16
+  - first:
+      213: -3451764756430443032
+    second: RetroExplosion_17
+  - first:
+      213: -7988628881796040108
+    second: RetroExplosion_18
+  - first:
+      213: -6568918773614871749
+    second: RetroExplosion_19
+  - first:
+      213: 8406916307884078030
+    second: RetroExplosion_20
+  - first:
+      213: -543275496743044096
+    second: RetroExplosion_21
+  - first:
+      213: -3436960284827481858
+    second: RetroExplosion_22
+  - first:
+      213: 3427747754063081308
+    second: RetroExplosion_23
+  - first:
+      213: -5901852452540728245
+    second: RetroExplosion_24
+  - first:
+      213: -6721642573043151567
+    second: RetroExplosion_25
+  - first:
+      213: 8295435481100949600
+    second: RetroExplosion_26
+  - first:
+      213: -6609699912671705420
+    second: RetroExplosion_27
+  - first:
+      213: -3798026591892631223
+    second: RetroExplosion_28
+  - first:
+      213: 2746229682655038263
+    second: RetroExplosion_29
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -2
+  maxTextureSize: 1024
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 2
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RetroExplosion_0
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe7c0963b7d0c5a0800000000000000
+      internalID: -6502960696361451778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroExplosion_1
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 230
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c615297f81910f560800000000000000
+      internalID: 7345398587264749932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroExplosion_2
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 231
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 110aa044ff105e1b0800000000000000
+      internalID: -5628089963459731439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroExplosion_3
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 165
+        width: 75
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26fd997c91ca212b0800000000000000
+      internalID: -5615236558654677150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroExplosion_4
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 232
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c05dcb672a0c90280800000000000000
+      internalID: -9076511769979202292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroExplosion_5
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 182
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d1083c3649157500800000000000000
+      internalID: 393248331913494995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroExplosion_6
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 179
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb0177f238311ada0800000000000000
+      internalID: -5935441379739627330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroExplosion_7
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 171
+        width: 26
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a42bfd6ede75f4490800000000000000
+      internalID: -7759886953643789750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroExplosion_8
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 167
+        width: 60
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c8c2832700ffba0800000000000000
+      internalID: -6053118883593941983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroExplosion_9
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 162
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 856e33dc2c7afb050800000000000000
+      internalID: 5818553698694194776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroExplosion_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9cd2487aa997e910800000000000000
+      internalID: 1866629528009497757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroExplosion_11
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 87
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d5c5bc718258f440800000000000000
+      internalID: 4969812904899888592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroExplosion_12
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 89
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 924784a7ced0117c0800000000000000
+      internalID: -4102482476242799575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroExplosion_13
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 87
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc712710742e92960800000000000000
+      internalID: 7577836642622379980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroExplosion_14
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 136
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fab625e29111e130800000000000000
+      internalID: 3594173300225784561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroExplosion_15
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 144
+        width: 33
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c55dc0c95c2320950800000000000000
+      internalID: 6413744643637040476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroExplosion_16
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 110
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cc3076d7c3632e90800000000000000
+      internalID: -7051682881584743223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroExplosion_17
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 135
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ed20c40e3ed810d0800000000000000
+      internalID: -3451764756430443032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroExplosion_18
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 90
+        width: 14
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45afe1a8b50b22190800000000000000
+      internalID: -7988628881796040108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroExplosion_19
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 126
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b7a44dd2386d4a0800000000000000
+      internalID: -6568918773614871749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroExplosion_20
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 100
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec37edb17dd5ba470800000000000000
+      internalID: 8406916307884078030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroExplosion_21
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 85
+        width: 38
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00cf47960d5e578f0800000000000000
+      internalID: -543275496743044096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroExplosion_22
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 92
+        width: 6
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef88bbba4d67d40d0800000000000000
+      internalID: -3436960284827481858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroExplosion_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9
+        width: 14
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5fa29cdb6ec19f20800000000000000
+      internalID: 3427747754063081308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroExplosion_24
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 53
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4cba89b678681ea0800000000000000
+      internalID: -5901852452540728245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroExplosion_25
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 64
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13dce9e41bde7b2a0800000000000000
+      internalID: -6721642573043151567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroExplosion_26
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 42
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06891347e9e4f1370800000000000000
+      internalID: 8295435481100949600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroExplosion_27
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 16
+        width: 9
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b6c549f2f0a544a0800000000000000
+      internalID: -6609699912671705420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroExplosion_28
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 12
+        width: 15
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94190ceffe2ba4bc0800000000000000
+      internalID: -3798026591892631223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroExplosion_29
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 4
+        width: 36
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b8942a8519c1620800000000000000
+      internalID: 2746229682655038263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 1d800a03f6de40e4d9598e2d8ad12c18
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
