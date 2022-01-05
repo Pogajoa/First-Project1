@@ -1,0 +1,12 @@
+{
+    "name": "Junpyo",
+    "age": 25,
+    "level": 150,
+    "isDead": true,
+    "items": [
+        "Book",
+        "Gold",
+        "Gun",
+        "cap"
+    ]
+}
