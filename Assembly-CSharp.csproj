@@ -36,6 +36,7 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
+     <Compile Include="Assets\PlayerController1.cs" />
      <Compile Include="Assets\Scripts\Chapter2\Player\Bullet.cs" />
      <Compile Include="Assets\Scripts\Chapter2\Player\PlayerController.cs" />
      <Compile Include="Assets\Scripts\Chapter3\AccessModifierExample.cs" />
@@ -69,7 +70,9 @@
      <Compile Include="Assets\Scripts\Managers\EventManager.cs" />
      <Compile Include="Assets\Scripts\Managers\GameManager.cs" />
      <Compile Include="Assets\Scripts\Managers\GitHub.cs" />
+     <Compile Include="Assets\Scripts\Managers\SaveJson.cs" />
      <Compile Include="Assets\Scripts\Managers\SpawnManager.cs" />
+     <None Include="Assets\JsonDotNet\link.xml" />
     <Reference Include="UnityEngine">
         <HintPath>D:/UnityHub/2019.4.2f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
@@ -252,6 +255,9 @@
     </Reference>
     <Reference Include="UnityEditor">
         <HintPath>D:/UnityHub/2019.4.2f1/Editor/Data/Managed/UnityEditor.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+        <HintPath>D:/UnityHub/New Unity Project/Assets/JsonDotNet/Assemblies/Standalone/Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="netstandard">
         <HintPath>D:/UnityHub/2019.4.2f1/Editor/Data/NetStandard/ref/2.0.0/netstandard.dll</HintPath>

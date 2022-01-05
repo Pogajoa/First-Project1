@@ -528,7 +528,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &884318880
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1045,7 +1045,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1595985099
 Transform:
   m_ObjectHideFlags: 0
@@ -1082,7 +1082,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!212 &1651864683
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -1450,7 +1450,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &1909860665
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1548,7 +1548,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!114 &1924404077
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1558,9 +1558,18 @@ MonoBehaviour:
   m_GameObject: {fileID: 1924404076}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6b3a350010a265e45aae2f125359e64d, type: 3}
+  m_Script: {fileID: 11500000, guid: e4104618efd65d941b4e1a880a944c25, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  playerData:
+    name: Jammin
+    age: 25
+    level: 100
+    isDead: 0
+    items:
+    - Book
+    - Gold
+    - Gun
 --- !u!4 &1924404078
 Transform:
   m_ObjectHideFlags: 0
@@ -1887,7 +1896,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!212 &2065186346
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -2046,7 +2055,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &2114389784
 MonoBehaviour:
   m_ObjectHideFlags: 0
