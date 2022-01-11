@@ -36,43 +36,43 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Assets\PlayerController1.cs" />
-     <Compile Include="Assets\Scripts\Chapter2\Player\Bullet.cs" />
-     <Compile Include="Assets\Scripts\Chapter2\Player\PlayerController.cs" />
-     <Compile Include="Assets\Scripts\Chapter3\AccessModifierExample.cs" />
-     <Compile Include="Assets\Scripts\Chapter3\ClassExamples.cs" />
-     <Compile Include="Assets\Scripts\Chapter3\ConstructorExample.cs" />
-     <Compile Include="Assets\Scripts\Chapter3\MethodOverloadExample.cs" />
-     <Compile Include="Assets\Scripts\Chapter3\ObjectExample.cs" />
-     <Compile Include="Assets\Scripts\Chapter3\TypeConversionExample2.cs" />
-     <Compile Include="Assets\Scripts\Chapter4\AbstractExample.cs" />
-     <Compile Include="Assets\Scripts\Chapter4\Coin.cs" />
-     <Compile Include="Assets\Scripts\Chapter4\EnumExample.cs" />
-     <Compile Include="Assets\Scripts\Chapter4\IndexerExample.cs" />
-     <Compile Include="Assets\Scripts\Chapter4\InterfaceExample.cs" />
-     <Compile Include="Assets\Scripts\Chapter4\Item.cs" />
-     <Compile Include="Assets\Scripts\Chapter4\ItemManager.cs" />
-     <Compile Include="Assets\Scripts\Chapter4\NamespaceExample.cs" />
-     <Compile Include="Assets\Scripts\Chapter4\SpeedUp.cs" />
-     <Compile Include="Assets\Scripts\Chapter4\StructExample.cs" />
-     <Compile Include="Assets\Scripts\Chapter5\ActionFuncExample.cs" />
-     <Compile Include="Assets\Scripts\Chapter5\AnonymousMethodExample.cs" />
-     <Compile Include="Assets\Scripts\Chapter5\CoroutineExample.cs" />
-     <Compile Include="Assets\Scripts\Chapter5\EventExample.cs" />
-     <Compile Include="Assets\Scripts\Chapter5\FileStreamExample.cs" />
-     <Compile Include="Assets\Scripts\Chapter5\SerializationExample.cs" />
-     <Compile Include="Assets\Scripts\Chapter5\StaticExample.cs" />
-     <Compile Include="Assets\Scripts\Chapter5\StringExample.cs" />
-     <Compile Include="Assets\Scripts\Enemy\Enemy.cs" />
-     <Compile Include="Assets\Scripts\Enemy\Enemy1.cs" />
-     <Compile Include="Assets\Scripts\Enemy\Enemy2.cs" />
-     <Compile Include="Assets\Scripts\Enemy\Player.cs" />
-     <Compile Include="Assets\Scripts\Managers\EventManager.cs" />
-     <Compile Include="Assets\Scripts\Managers\GameManager.cs" />
-     <Compile Include="Assets\Scripts\Managers\GitHub.cs" />
-     <Compile Include="Assets\Scripts\Managers\SaveJson.cs" />
-     <Compile Include="Assets\Scripts\Managers\SpawnManager.cs" />
-     <None Include="Assets\JsonDotNet\link.xml" />
+     <Compile Include="Assets\RPGGame\Scripts\MovingObject.cs" />
+     <Compile Include="Assets\ShootingGame\Scripts\ShootingGame\Chapter2\Player\Bullet.cs" />
+     <Compile Include="Assets\ShootingGame\Scripts\ShootingGame\Chapter2\Player\PlayerController.cs" />
+     <Compile Include="Assets\ShootingGame\Scripts\ShootingGame\Chapter3\AccessModifierExample.cs" />
+     <Compile Include="Assets\ShootingGame\Scripts\ShootingGame\Chapter3\ClassExamples.cs" />
+     <Compile Include="Assets\ShootingGame\Scripts\ShootingGame\Chapter3\ConstructorExample.cs" />
+     <Compile Include="Assets\ShootingGame\Scripts\ShootingGame\Chapter3\MethodOverloadExample.cs" />
+     <Compile Include="Assets\ShootingGame\Scripts\ShootingGame\Chapter3\ObjectExample.cs" />
+     <Compile Include="Assets\ShootingGame\Scripts\ShootingGame\Chapter3\TypeConversionExample2.cs" />
+     <Compile Include="Assets\ShootingGame\Scripts\ShootingGame\Chapter4\AbstractExample.cs" />
+     <Compile Include="Assets\ShootingGame\Scripts\ShootingGame\Chapter4\Coin.cs" />
+     <Compile Include="Assets\ShootingGame\Scripts\ShootingGame\Chapter4\EnumExample.cs" />
+     <Compile Include="Assets\ShootingGame\Scripts\ShootingGame\Chapter4\IndexerExample.cs" />
+     <Compile Include="Assets\ShootingGame\Scripts\ShootingGame\Chapter4\InterfaceExample.cs" />
+     <Compile Include="Assets\ShootingGame\Scripts\ShootingGame\Chapter4\Item.cs" />
+     <Compile Include="Assets\ShootingGame\Scripts\ShootingGame\Chapter4\ItemManager.cs" />
+     <Compile Include="Assets\ShootingGame\Scripts\ShootingGame\Chapter4\NamespaceExample.cs" />
+     <Compile Include="Assets\ShootingGame\Scripts\ShootingGame\Chapter4\SpeedUp.cs" />
+     <Compile Include="Assets\ShootingGame\Scripts\ShootingGame\Chapter4\StructExample.cs" />
+     <Compile Include="Assets\ShootingGame\Scripts\ShootingGame\Chapter5\ActionFuncExample.cs" />
+     <Compile Include="Assets\ShootingGame\Scripts\ShootingGame\Chapter5\AnonymousMethodExample.cs" />
+     <Compile Include="Assets\ShootingGame\Scripts\ShootingGame\Chapter5\CoroutineExample.cs" />
+     <Compile Include="Assets\ShootingGame\Scripts\ShootingGame\Chapter5\EventExample.cs" />
+     <Compile Include="Assets\ShootingGame\Scripts\ShootingGame\Chapter5\FileStreamExample.cs" />
+     <Compile Include="Assets\ShootingGame\Scripts\ShootingGame\Chapter5\SerializationExample.cs" />
+     <Compile Include="Assets\ShootingGame\Scripts\ShootingGame\Chapter5\StaticExample.cs" />
+     <Compile Include="Assets\ShootingGame\Scripts\ShootingGame\Chapter5\StringExample.cs" />
+     <Compile Include="Assets\ShootingGame\Scripts\ShootingGame\Enemy\Enemy.cs" />
+     <Compile Include="Assets\ShootingGame\Scripts\ShootingGame\Enemy\Enemy1.cs" />
+     <Compile Include="Assets\ShootingGame\Scripts\ShootingGame\Enemy\Enemy2.cs" />
+     <Compile Include="Assets\ShootingGame\Scripts\ShootingGame\Enemy\Player.cs" />
+     <Compile Include="Assets\ShootingGame\Scripts\ShootingGame\Managers\EventManager.cs" />
+     <Compile Include="Assets\ShootingGame\Scripts\ShootingGame\Managers\GameManager.cs" />
+     <Compile Include="Assets\ShootingGame\Scripts\ShootingGame\Managers\GitHub.cs" />
+     <Compile Include="Assets\ShootingGame\Scripts\ShootingGame\Managers\SaveJson.cs" />
+     <Compile Include="Assets\ShootingGame\Scripts\ShootingGame\Managers\SpawnManager.cs" />
+     <Compile Include="Assets\ShootingGame\Scripts\ShootingGame\PlayerController1.cs" />
     <Reference Include="UnityEngine">
         <HintPath>D:/UnityHub/2019.4.2f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
@@ -255,9 +255,6 @@
     </Reference>
     <Reference Include="UnityEditor">
         <HintPath>D:/UnityHub/2019.4.2f1/Editor/Data/Managed/UnityEditor.dll</HintPath>
-    </Reference>
-    <Reference Include="Newtonsoft.Json">
-        <HintPath>D:/UnityHub/New Unity Project/Assets/JsonDotNet/Assemblies/Standalone/Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="netstandard">
         <HintPath>D:/UnityHub/2019.4.2f1/Editor/Data/NetStandard/ref/2.0.0/netstandard.dll</HintPath>
