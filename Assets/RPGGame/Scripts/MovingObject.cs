@@ -12,6 +12,7 @@ public class MovingObject : MonoBehaviour
     private int CurrentWalkCount;
     private bool CanMove = true;
     private bool ApplyRunFlag = false;
+    private Animator animator;
     
     IEnumerator MoveCoroutine(){
         if(Input.GetKey(KeyCode.LeftShift)){
@@ -25,6 +26,10 @@ public class MovingObject : MonoBehaviour
     
         vector.Set(Input.GetAxis("Horizontal"), Input.GetAxis("Vertical"), transform.position.z);
         
+        animator.SetFloat("DirX", vector.x);
+        animator.SetFloat("DirY", vector.y);
+        animator.SetBool("Walking", true);
+
        while(CurrentWalkCount < WalkCount){
         if(vector.x != 0){
             transform.Translate(vector.x * (speed + ApplyRunSpeed), 0, 0);
@@ -38,7 +43,12 @@ public class MovingObject : MonoBehaviour
             CurrentWalkCount++;
         }
             CurrentWalkCount = 0;
+
+            animator.SetBool("Walking", false);
             CanMove = true;
+    }
+    void Start(){
+        animator = GetComponent<Animator>();
     }
     void Update(){
         if(CanMove){
